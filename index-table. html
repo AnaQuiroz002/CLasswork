@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+	
+	<title>Table Tectures</title>
+
+</head>
+
+<body background=" bubles.jpg">
+
+	<table bgcolor="white" align="center" cellpadding="10" cellspacing="0" border="1">
+	<tr>
+	   <td  bgcolor="red" align="center" >Name</td>
+	   <td align="center" >Age</td>
+	   <td  bgcolor="yellow" align="center" >Phone</td>
+	   <td align="center">Data</td>
+
+</tr>
+
+<tr>
+	
+<td>Sam</td>
+<td>48</td>
+<td >5555555555</td>
+<td>CEO</td>
+
+
+</tr>
+
+<tr>
+<td>Kerry</td>
+<td>27</td>
+<td>555333333</td>
+<td>intern</td>
+
+</tr>
+
+<tr>
+<td>Sara</td>
+<td>32</td>
+<td>555 222222</td>
+<td>PM</td>	
+
+</tr>
+
+	</table>
+
+	
+	<table align="center" cellpadding="5" cellspacing="0" border="5" bordercolor="pink">	
+
+<tr>
+	
+<td>Name</td>
+<td>Age</td>
+<td>phone</td>
+<td>Data</td>	
+
+</tr>
+
+<tr>
+
+<td>Sammy</td>
+<td>56</td>
+<td colspan="2">Phone 88888</td>
+	
+	
+
+
+</tr>
+
+
+<tr>
+
+
+	
+<td>paola</td>
+<td>21</td>
+<td>33333333333</td>
+<td>intern</td>	
+
+
+</tr>
+
+
+
+<tr>
+	
+<td>chirst</td>
+<td>19</td>
+<td>77777777</td>
+	
+
+
+</tr>
+
+<tr>
+	
+<td align="center" colspan="4"><img    width="85%"  src="https://media.istockphoto.com/vectors/empty-banner-drawing-vector-id500048722"></td>
+
+</tr>
+
+
+
+	</table>
+
+
+
+
+</body>
+
+</html>
